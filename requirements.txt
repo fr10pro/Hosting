@@ -5,3 +5,5 @@ requests
 Flask
 pyrogram
 yt-dlp
+ffmpeg-python
+matplotlib
