@@ -5,3 +5,8 @@ requests
 aiogram
 python-dotenv
 yt_dlp
+requests==2.32.3
+Flask==3.0.3
+pyrogram==2.0.130
+yt-dlp==2024.6.22
+gunicorn==21.2.0
