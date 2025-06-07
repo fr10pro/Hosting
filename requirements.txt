@@ -1,10 +1,6 @@
-pyrogram==2.0.106
 tgcrypto
-flask
-requests
 aiogram
 python-dotenv
-yt_dlp
 requests==2.32.3
 Flask==3.0.3
 pyrogram==2.0.130
