@@ -4,3 +4,4 @@ flask
 requests
 aiogram
 python-dotenv
+yt_dlp
