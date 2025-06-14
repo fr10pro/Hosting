@@ -7,3 +7,5 @@ pyrogram
 yt-dlp
 ffmpeg-python
 matplotlib
+sqlalchemy
+pyngrok
