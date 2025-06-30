@@ -12,5 +12,4 @@ pyngrok
 moviepy
 gunicorn
 aiohttp
-shutil
 cryptography
