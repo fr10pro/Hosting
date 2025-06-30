@@ -13,3 +13,5 @@ moviepy
 gunicorn
 aiohttp
 cryptography
+gunicorn
+Pillow
