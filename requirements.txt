@@ -9,3 +9,9 @@ ffmpeg-python
 matplotlib
 sqlalchemy
 pyngrok
+moviepy
+gunicorn
+sqlite3
+aiohttp
+shutil
+cryptography
